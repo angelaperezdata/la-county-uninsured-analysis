@@ -93,4 +93,4 @@ Choropleth map displaying uninsured rates by census tract within Los Angeles Cou
 **Recommendation**: Prioritize targeted outreach supported by data-informed strategies and continuous monitoring to reduce health disparities and improve coverage effectively.
 
 ## 📂 View Full Analysis
-The complete R Markdown notebook with all code, tables, and visualizations can be viewed here 
+The complete R Markdown notebook with all code, tables, and visualizations can be viewed [View Full R Markdown Notebook](https://raw.githubusercontent.com/angelaperezdata/la-county-uninsured-analysis/main/Rmarkdown_notebook_LACounty_Uninsured_Analysis.pdf)
